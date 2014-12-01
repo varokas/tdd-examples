@@ -2,8 +2,12 @@ TDD Examples
 =============
 Contain various examples of TDD.
 
-![Build Status](https://secure.travis-ci.org/varokas/tdd-examples.png)
+Requirements
+============
+* Java 1.7 and up
 
-com.huskycode.stack
--------------------
-Shows how tests can document code behavior.
+Steps
+=====
+1. ./gradlew eclipse 
+2. Use Eclipse to import the project
+
